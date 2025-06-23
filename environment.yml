@@ -10,3 +10,5 @@ dependencies:
   - matplotlib
   - h5py
   - pandas
+  - pip:
+      - prysm # Python package for optical metrology
